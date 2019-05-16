@@ -16,6 +16,7 @@ https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-th
 # System Design :
 - Design TinyURL or bitly 
 - Design YouTube, Netflix or Twitch (a global video streaming service)
+     https://www.geeksforgeeks.org/design-video-sharing-system-like-youtube/
 - Design Facebook Messenger or WhatsApp (a global chat service)
 - Designing Quora or Reddit or HackerNews (a social network + message board service)
 - Design Dropbox or Google Drive or Google Photos (a global file storage & sharing service)
