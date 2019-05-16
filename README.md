@@ -39,3 +39,8 @@ https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-th
           http://javabypatel.blogspot.com/2015/10/what-is-load-factor-and-rehashing-in-hashmap.html
 # Advance DataStructure
      https://www.geeksforgeeks.org/advanced-data-structures/
+
+
+# Sorting
+     QuickSort comparision with other sorting algorithm
+     https://blog.usejournal.com/lets-sort-it-out-the-quicksort-way-9292e67cfc5e
