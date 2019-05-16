@@ -9,6 +9,7 @@ https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-th
 
 How authentication token works:
 https://www.youtube.com/watch?v=926mknSW9Lo
+
 JWT:
 https://www.youtube.com/watch?v=7nafaH9SddU
 
