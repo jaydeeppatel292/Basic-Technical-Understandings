@@ -7,7 +7,7 @@ https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-th
 
 
 - ## How authentication token works:
-
+     - https://auth0.com/learn/token-based-authentication-made-easy/
      - ### JWT
             https://www.youtube.com/watch?v=926mknSW9Lo
             https://www.youtube.com/watch?v=7nafaH9SddU
