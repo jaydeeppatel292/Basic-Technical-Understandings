@@ -28,7 +28,11 @@ https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-th
 
 
 # Data Structure and Algorithm
-
+     1 collection : https://www.tutorialspoint.com/java/java_collections.htm
+     2 HashMap
+     3 HashSet
+     4 TreeSet
+     5 LinkedHashSet
 
 # Advance DataStructure
      https://www.geeksforgeeks.org/advanced-data-structures/
