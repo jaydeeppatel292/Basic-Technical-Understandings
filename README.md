@@ -25,7 +25,7 @@ https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-th
 - Design a Web Crawler or Type-Ahead (search engine related services)
      https://www.youtube.com/watch?v=us0qySiUsGU
 - Design an API Rate Limiter (e.g. for Firebase or Github)
-
+- Design Yelp or Nearby Places/Friends (a proximity server)
 
 # Data Structure and Algorithm
      1 collection : https://www.tutorialspoint.com/java/java_collections.htm
