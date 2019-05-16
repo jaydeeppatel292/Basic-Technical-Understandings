@@ -34,5 +34,8 @@ https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-th
      4 TreeSet
      5 LinkedHashSet
 
+# Advance Concepts
+     1 Hashmap load factor and rehashing
+          http://javabypatel.blogspot.com/2015/10/what-is-load-factor-and-rehashing-in-hashmap.html
 # Advance DataStructure
      https://www.geeksforgeeks.org/advanced-data-structures/
