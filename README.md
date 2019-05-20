@@ -18,6 +18,7 @@ https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-th
 - Design YouTube, Netflix or Twitch (a global video streaming service)
      https://www.geeksforgeeks.org/design-video-sharing-system-like-youtube/
 - Design Facebook Messenger or WhatsApp (a global chat service)
+     https://www.youtube.com/watch?v=vvhC64hQZMk
 - Designing Quora or Reddit or HackerNews (a social network + message board service)
 - Design Dropbox or Google Drive or Google Photos (a global file storage & sharing service)
 - Design Facebook, Twitter or Instagram (a social media service with hundreds of millions of users)
