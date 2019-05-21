@@ -23,6 +23,7 @@ https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-th
 - Design Dropbox or Google Drive or Google Photos (a global file storage & sharing service)
 - Design Facebook, Twitter or Instagram (a social media service with hundreds of millions of users)
 - Design Uber or Lyft (a ride sharing service)
+     https://www.youtube.com/watch?v=umWABit-wbk
 - Design a Web Crawler or Type-Ahead (search engine related services)
      https://www.youtube.com/watch?v=us0qySiUsGU
 - Design an API Rate Limiter (e.g. for Firebase or Github)
