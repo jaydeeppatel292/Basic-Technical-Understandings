@@ -22,6 +22,7 @@ https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-th
 - Designing Quora or Reddit or HackerNews (a social network + message board service)
 - Design Dropbox or Google Drive or Google Photos (a global file storage & sharing service)
 - Design Facebook, Twitter or Instagram (a social media service with hundreds of millions of users)
+     https://www.youtube.com/watch?v=QmX2NPkJTKg
 - Design Uber or Lyft (a ride sharing service)
      https://www.youtube.com/watch?v=umWABit-wbk
 - Design a Web Crawler or Type-Ahead (search engine related services)
