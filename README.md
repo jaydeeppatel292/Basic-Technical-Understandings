@@ -37,6 +37,10 @@ https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-th
      4 TreeSet
      5 LinkedHashSet
 
+# Basic Concepts
+     1 JAVA Confusion for object : pass by value or pass by reference
+          https://javapapers.com/core-java/java-pass-by-value-and-pass-by-reference/
+          
 # Advance Concepts
      1 Hashmap load factor and rehashing
           http://javabypatel.blogspot.com/2015/10/what-is-load-factor-and-rehashing-in-hashmap.html
