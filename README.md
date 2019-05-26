@@ -17,6 +17,9 @@ https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-th
 - Design TinyURL or bitly 
 - Design YouTube, Netflix or Twitch (a global video streaming service)
      https://www.geeksforgeeks.org/design-video-sharing-system-like-youtube/
+     https://medium.com/netflix-techblog/netflix-at-spark-ai-summit-2018-5304749ed7fa
+     https://media.netflix.com/en/company-blog/how-netflix-works-with-isps-around-the-globe-to-deliver-a-great-viewing-experience
+     https://www.youtube.com/watch?v=psQzyFfsUGU
 - Design Facebook Messenger or WhatsApp (a global chat service)
      https://www.youtube.com/watch?v=vvhC64hQZMk
 - Designing Quora or Reddit or HackerNews (a social network + message board service)
