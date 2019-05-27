@@ -55,5 +55,9 @@ https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-th
      QuickSort comparision with other sorting algorithm
      https://blog.usejournal.com/lets-sort-it-out-the-quicksort-way-9292e67cfc5e
 
+# Database Concepts
+     What is Database Sharding?
+     https://www.youtube.com/watch?v=5faMjKuB9bc&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&index=7
+
 # Cheatsheet
      http://bigocheatsheet.com/
