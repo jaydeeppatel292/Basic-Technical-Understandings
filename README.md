@@ -47,6 +47,12 @@ https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-th
 # Advance Concepts
      1 Hashmap load factor and rehashing
           http://javabypatel.blogspot.com/2015/10/what-is-load-factor-and-rehashing-in-hashmap.html
+     2 Using volatile vs AtomicInteger in Java concurrency 
+          https://www.youtube.com/watch?v=WH5UvQJizH0
+     3 Semaphore in Java Concurrency
+          https://www.youtube.com/watch?v=shH38znT_sQ
+          
+          
 # Advance DataStructure
      https://www.geeksforgeeks.org/advanced-data-structures/
 
