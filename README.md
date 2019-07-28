@@ -67,3 +67,14 @@ https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-th
 
 # Cheatsheet
      http://bigocheatsheet.com/
+
+# Spring & Spring Boot
+    Spring Boot : https://www.youtube.com/watch?v=35EQXmHKZYs
+    Spring v/s Spring Boot : https://www.baeldung.com/spring-vs-spring-boot
+    Controller v/s Rest Controller : https://www.javacodegeeks.com/2017/08/difference-restcontroller-controller-annotation-spring-mvc-rest.html
+    
+# Functional Programming v/s Imperative (Procedural) Programming v/s OOP
+     Functional v/s Imperative : https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/functional-programming-vs-imperative-programming
+     Functional v/s OOP : https://www.educba.com/functional-programming-vs-oop/
+     Functional v/s Imperative v/s OOP : https://medium.com/@LiliOuakninFelsen/functional-vs-object-oriented-vs-procedural-programming-a3d4585557f3
+     
